@@ -1,4 +1,5 @@
-## Hi there 👋
+<h2 align="center">👋 Hi all! I'm Aldra.</h2>
+<p align="center"> A grad student from Telkom University majoring in Telecommunication Engineering. I'm a Coder Enthusiast ⚗️✨passionate about learning and working with new tech</p>
 
 <!--
 **Abangale/Abangale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
