@@ -40,7 +40,7 @@
 <details>
 <summary>📖 My GitHub Stats</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=catppuccin_latte&text_bold=true)
+![Abangale GitHub stats](https://github-readme-stats.vercel.app/api?username=Abangale&show_icons=true&theme=catppuccin_latte&text_bold=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abangale&layout=compact&theme=catppuccin_latte)
 
 </details>
